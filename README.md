@@ -1,3 +1,5 @@
 # DAT
-Repositorio para la asignatura Desarrollo de Aplicaciones para Telecomunicaciones.
-Se irá actualizando con el paso de las sesiones de la asignatura.
+Desarrollo de Aplicaciones para Telecomunicaciones
+2º Curso - Máster Universitario Ingeniería Tecnologías de la Telecomunicación
+
+Víctor Román García
